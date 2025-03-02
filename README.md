@@ -1,0 +1,3 @@
+This project is an intelligent movie search application that allows users to discover the best films based on their favorite actor or actress, a specific movie genre, and IMDb rating. By retrieving real-time data from a vast movie database, users can effortlessly list films that match their criteria and view detailed information. With its user-friendly interface and advanced filtering options, this application enhances the movie discovery process, providing cinema enthusiasts with the ultimate viewing experience
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-03 at 01 05 30](https://github.com/user-attachments/assets/1cb10345-ead9-46c4-aa1d-02f3c2262d8f)
